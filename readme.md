@@ -21,7 +21,8 @@ Welcome to Demonic Potato! By using my bot, you agree to the following terms. If
 7. Termination
 - I reserve the right to terminate or suspend your access to the bot at my sole discretion, without notice, for any reason, including but not limited to violations of these Terms of Service.
 
-Privacy Policy for Demonic Potato
+# Privacy Policy for Demonic Potato
+
 1. Information I Collect
    
 1.1. Personal Information
